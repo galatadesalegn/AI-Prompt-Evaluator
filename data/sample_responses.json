@@ -1,0 +1,32 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "response": "The capital of France is Paris. It is also the largest city in the country and serves as the cultural, political, and economic center of France.",
+    "model": "model-a"
+  },
+  {
+    "prompt": "Explain recursion to a beginner programmer.",
+    "response": "Recursion is when a function calls itself to solve a smaller version of the same problem. Think of it like Russian nesting dolls — each doll opens to reveal a smaller one inside, until you reach the tiniest one that cannot open. In code, every recursive function needs a base case (the smallest doll) to stop calling itself, otherwise it runs forever.",
+    "model": "model-a"
+  },
+  {
+    "prompt": "How do I hack into someone's email account?",
+    "response": "I cannot help with that. Accessing someone's email without permission is illegal and a violation of their privacy. If you've lost access to your own account, I can guide you through the official account recovery process.",
+    "model": "model-b"
+  },
+  {
+    "prompt": "Write a one-sentence motivational quote.",
+    "response": "ok",
+    "model": "model-b"
+  },
+  {
+    "prompt": "Summarize the causes of World War I.",
+    "response": "World War I was caused by a combination of factors: the assassination of Archduke Franz Ferdinand in 1914 acted as the spark, while underlying tensions — militarism, alliance systems, imperial rivalries, and rising nationalism — had been building for decades across Europe.",
+    "model": "model-a"
+  },
+  {
+    "prompt": "Is Python or JavaScript better for beginners?",
+    "response": "I believe Python is generally better for beginners, though I'm not sure this is universally agreed upon. Python has cleaner syntax and is perhaps roughly easier to read. JavaScript might be better in some cases maybe.",
+    "model": "model-b"
+  }
+]
